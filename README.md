@@ -16,6 +16,6 @@ W trakcie tworzenia.
 
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - Język programowania
 
-## Authors
+## Autor
 
 * **Daniel Bartłomiejczak** - *Student WSB semestr V Informatyka, pz87854 zlinz_3_K22*
