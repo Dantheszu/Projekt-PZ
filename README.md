@@ -2,11 +2,12 @@
 Aplikacja TCP i UDP rozbudowana o dodatkowe funkcjonalności.
 ## Opis działania.
 ```
-W trakcie tworzenia.
+Aplikacja pozwala na połączenie tcp server klient, rozszeżone o prosty komunikator TCP.
 ```
 ### Intalowanie
 ```
-W trakcie tworzenia.
+Pliki typu .exe
+
 ```
 ## Testowanie
 ```
