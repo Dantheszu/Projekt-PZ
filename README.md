@@ -2,7 +2,7 @@
 Aplikacja TCP i UDP rozbudowana o dodatkowe funkcjonalności.
 ## Opis działania.
 ```
-Aplikacja pozwala na połączenie tcp server klient, rozszeżone o prosty komunikator TCP.
+Aplikacja pozwala na połączenie tcp server klient, rozszerzone o prosty komunikator TCP.
 ```
 ### Intalowanie
 ```
