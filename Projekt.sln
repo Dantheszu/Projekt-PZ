@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KmunikatorServer", "Kmunika
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomunikatorKlient", "KomunikatorKlient\KomunikatorKlient.csproj", "{37684F84-D70C-46DC-A8F3-6583CCC5195B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CzatSerwer", "..\Nowy folder\CzatSerwer\CzatSerwer.csproj", "{9E71621F-29C5-4F03-A30A-D189ECFF51A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CzatKlient", "..\Nowy folder\CzatKlient\CzatKlient\CzatKlient.csproj", "{D2ABEF3B-F0C4-4D45-AF98-B0209CE22B64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{37684F84-D70C-46DC-A8F3-6583CCC5195B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37684F84-D70C-46DC-A8F3-6583CCC5195B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37684F84-D70C-46DC-A8F3-6583CCC5195B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E71621F-29C5-4F03-A30A-D189ECFF51A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E71621F-29C5-4F03-A30A-D189ECFF51A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E71621F-29C5-4F03-A30A-D189ECFF51A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E71621F-29C5-4F03-A30A-D189ECFF51A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2ABEF3B-F0C4-4D45-AF98-B0209CE22B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2ABEF3B-F0C4-4D45-AF98-B0209CE22B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2ABEF3B-F0C4-4D45-AF98-B0209CE22B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2ABEF3B-F0C4-4D45-AF98-B0209CE22B64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
